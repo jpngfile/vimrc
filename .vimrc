@@ -1,3 +1,5 @@
+execute pathogen#infect()
+
 set mouse=a
 syntax on
 " Display extra whitespace
